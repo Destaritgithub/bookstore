@@ -1,0 +1,39 @@
+{
+  "popularBooks": [
+    {
+      "rating": "5.0",
+      "title": "ፍቅር እስከ መቃብር",
+      "author": "Hadis Alemayehu",
+      "img": "assets/fkr.jpg",
+      "audio": "voice.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title": "ሌላ ሰው",
+      "author": "D/r Mihret Debebe",
+      "img": "assets/lela.jpeg",
+      "audio": "voice.mp3"
+    },
+    {
+      "rating": "4.0",
+      "title": "ኔልሰን ማንዴላ",
+      "author": "Mandela",
+      "img": "assets/mand.jpeg",
+      "audio": "voice.mp3"
+    },
+    {
+      "rating": "4.5",
+      "title": "ስኳዶቹ",
+      "author": "Geday Guadoch",
+      "img": "assets/menge.jpeg",
+      "audio": "voice.mp3"
+    },
+    {
+      "rating": "5.0",
+      "title": "አመጸኛው ክልስ",
+      "author": "Daniel Huk",
+      "img": "assets/kls.jpeg",
+      "audio": "voice.mp3"
+    }
+  ]
+}
