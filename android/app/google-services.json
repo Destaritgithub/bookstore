@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "363322647344",
+    "project_id": "bookstore-84717",
+    "storage_bucket": "bookstore-84717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363322647344:android:18ace78dd7a383b135def5",
+        "android_client_info": {
+          "package_name": "com.desta.bookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363322647344-5mfvl6lpuo5t1qsju12fvpk69bj0s8eb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS8XMp8vr0YqCHIzhNYqMxWk4hsDMCyKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363322647344-5mfvl6lpuo5t1qsju12fvpk69bj0s8eb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "363322647344-fsg5qgfmrvt12vvjqkin44df9jrhdhvf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.desta.bookstore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
